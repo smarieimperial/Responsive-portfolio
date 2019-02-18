@@ -70,13 +70,6 @@ the portfolio you made last week with a mobile-responsive layout.
 
 9. **Protip**: Use the Chrome extensions [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) and [Browser Width](https://chrome.google.com/webstore/detail/browser-width/mlnegepkjlccabakompdmbcmdieaideh) to see the browser dimensions in Chrome.
 
-10. Deploy your new portfolio (now with media queries!) to GitHub Pages.
-
-### Submitting Your Work on [BootCampSpot](https://www.bootcampspot-v2.com/)
-
-1. Submit the GitHub links to your portfolio repositories on GitHub.
-
-2. Submit the link to your (GitHub Pages) deployed site in the same input field.
 
 ### BONUS
 
