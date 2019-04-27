@@ -1,6 +1,8 @@
 # Responsive-portfolio
 # Responsiveness Assignment
 
+https://smarieimperial.github.io/assignment-2-responsive-portfolio/
+
 ### Overview
 
 In this assignment, you'll create two different portfolios. The first will be building
